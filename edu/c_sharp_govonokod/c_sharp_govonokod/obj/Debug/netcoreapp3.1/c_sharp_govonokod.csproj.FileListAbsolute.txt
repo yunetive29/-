@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\Git\edu\c_sharp_govonokod\c_sharp_govonokod\bin\Debug\netcoreapp3.1\c_sharp_govonokod.exe
+C:\Users\admin\Documents\Git\edu\c_sharp_govonokod\c_sharp_govonokod\bin\Debug\netcoreapp3.1\c_sharp_govonokod.deps.json
+C:\Users\admin\Documents\Git\edu\c_sharp_govonokod\c_sharp_govonokod\bin\Debug\netcoreapp3.1\c_sharp_govonokod.runtimeconfig.json
+C:\Users\admin\Documents\Git\edu\c_sharp_govonokod\c_sharp_govonokod\bin\Debug\netcoreapp3.1\c_sharp_govonokod.runtimeconfig.dev.json
+C:\Users\admin\Documents\Git\edu\c_sharp_govonokod\c_sharp_govonokod\bin\Debug\netcoreapp3.1\c_sharp_govonokod.dll
+C:\Users\admin\Documents\Git\edu\c_sharp_govonokod\c_sharp_govonokod\bin\Debug\netcoreapp3.1\c_sharp_govonokod.pdb
+C:\Users\admin\Documents\Git\edu\c_sharp_govonokod\c_sharp_govonokod\obj\Debug\netcoreapp3.1\c_sharp_govonokod.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Git\edu\c_sharp_govonokod\c_sharp_govonokod\obj\Debug\netcoreapp3.1\c_sharp_govonokod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Git\edu\c_sharp_govonokod\c_sharp_govonokod\obj\Debug\netcoreapp3.1\c_sharp_govonokod.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Git\edu\c_sharp_govonokod\c_sharp_govonokod\obj\Debug\netcoreapp3.1\c_sharp_govonokod.AssemblyInfo.cs
+C:\Users\admin\Documents\Git\edu\c_sharp_govonokod\c_sharp_govonokod\obj\Debug\netcoreapp3.1\c_sharp_govonokod.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Git\edu\c_sharp_govonokod\c_sharp_govonokod\obj\Debug\netcoreapp3.1\c_sharp_govonokod.dll
+C:\Users\admin\Documents\Git\edu\c_sharp_govonokod\c_sharp_govonokod\obj\Debug\netcoreapp3.1\c_sharp_govonokod.pdb
+C:\Users\admin\Documents\Git\edu\c_sharp_govonokod\c_sharp_govonokod\obj\Debug\netcoreapp3.1\c_sharp_govonokod.genruntimeconfig.cache

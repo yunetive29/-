@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c_sharp_govonokod", "c_sharp_govonokod\c_sharp_govonokod.csproj", "{AE501F3D-7CAE-471E-9CC0-6F8BB4B0E63E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE501F3D-7CAE-471E-9CC0-6F8BB4B0E63E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE501F3D-7CAE-471E-9CC0-6F8BB4B0E63E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE501F3D-7CAE-471E-9CC0-6F8BB4B0E63E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE501F3D-7CAE-471E-9CC0-6F8BB4B0E63E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42D7A3AF-DF25-4144-B56A-C818EC54BB95}
+	EndGlobalSection
+EndGlobal
